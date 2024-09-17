@@ -24,7 +24,7 @@
             </constraints>
             <properties>
               <font size="18" style="1"/>
-              <text value="Order Management Sytem"/>
+              <text value="Order Management System"/>
             </properties>
           </component>
           <hspacer id="54488">
